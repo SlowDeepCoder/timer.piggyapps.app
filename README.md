@@ -1,3 +1,3 @@
-# timer.piggyapps.app
+# LockScreen Timer
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/SlowDeepCoder/timer.piggyapps.app)
+[timer.piggyapps.app](timer.piggyapps.app)
